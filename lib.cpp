@@ -1,7 +1,3 @@
-//
-// Created by squer on 29/11/2021.
-//
-
 #include "lib.h"
 bool numerip (int n, int a){
     if (n<0){
